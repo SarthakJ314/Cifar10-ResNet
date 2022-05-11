@@ -178,7 +178,7 @@ def train(num_epochs):
         print(output)
 
         #storing results
-        file = open('t1.txt', 'a')
+        file = open('results.txt', 'a')
         file.write(f'Epoch #{epoch+1} -> {acc}\n')
         file.close()
 
