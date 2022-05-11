@@ -1,3 +1,4 @@
+Highest Value: 92.63%
 Epoch #1 -> 55.47
 Epoch #2 -> 71.29
 Epoch #3 -> 72.32
